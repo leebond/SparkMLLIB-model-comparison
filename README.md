@@ -1,6 +1,6 @@
 usage:
 
-$ python <myscript.py> <training dataset> <testing dataset> <results output>
+$ python [myscript.py] [training dataset] [testing dataset] [results output]
 
 example: 
 
